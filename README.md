@@ -1,4 +1,4 @@
-##Cat vs Dog Classifier (Streamlit App)
+## Cat vs Dog Classifier (Streamlit App)
 A lightweight deep learning app that predicts whether an uploaded image is a cat or a dog, built with PyTorch and deployed using Streamlit Cloud.
 
 
